@@ -4,6 +4,8 @@
 
 Curated by [Rahul Sharma](https://github.com/RjRahulSharma01), founder of [Instant Production](https://instantproduction.in) and co-founder & CMO of [Hireonix AI](https://hireonixai.com). Thirteen years in content, social and digital growth. Everything here is something I use, have tested, or would hand to my own team. Short lists beat long ones, so if a tool isn't here, I either haven't tried it or didn't think it earned a place.
 
+**New: [AI Tools Momentum Index](momentum/).** Which tools on this list are gaining or losing attention, rebuilt every Monday from Wikipedia, Hacker News and GitHub data by a GitHub Action.
+
 ## Contents
 
 - [AI assistants](#ai-assistants)
