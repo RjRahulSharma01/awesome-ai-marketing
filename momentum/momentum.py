@@ -75,8 +75,25 @@ def get_json(url: str, headers: dict | None = None, retries: int = 3):
     return None
 
 
+def resolve_wiki_title(title: str) -> str:
+    """Follow Wikipedia redirects; page views are counted on the target only."""
+    params = urllib.parse.urlencode({
+        "action": "query", "titles": title.replace("_", " "),
+        "redirects": 1, "format": "json", "formatversion": 2,
+    })
+    data = get_json(f"https://en.wikipedia.org/w/api.php?{params}")
+    try:
+        page = data["query"]["pages"][0]
+        if page.get("missing"):
+            return title
+        return page["title"].replace(" ", "_")
+    except (TypeError, KeyError, IndexError):
+        return title
+
+
 def wiki_views(title: str, end: dt.date) -> tuple[int, int] | None:
     """Page views for the last 28 days and the 28 before, ending at `end`."""
+    title = resolve_wiki_title(title)
     start = end - dt.timedelta(days=2 * WINDOW_DAYS - 1)
     url = (
         "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/"
@@ -94,6 +111,8 @@ def wiki_views(title: str, end: dt.date) -> tuple[int, int] | None:
             recent += item["views"]
         else:
             prev += item["views"]
+    if recent + prev == 0:
+        return None
     return recent, prev
 
 
@@ -109,6 +128,8 @@ def hn_mentions(query: str, end: dt.date) -> tuple[int, int] | None:
             "tags": "(story,comment)",
             "numericFilters": f"created_at_i>={lo},created_at_i<{hi}",
             "hitsPerPage": 0,
+            "typoTolerance": "false",
+            "queryType": "prefixNone",
         })
         data = get_json(f"https://hn.algolia.com/api/v1/search_by_date?{params}")
         return int(data["nbHits"]) if data else 0
@@ -269,11 +290,14 @@ def render_readme(ranked: list[dict], today: dt.date, gaps: list[str]) -> str:
         wiki = r["wiki"][0] if r["wiki"] else None
         hn = r["hn"][0] if r["hn"] else None
         lines.append(
-            f"| {i if r['momentum'] is not None else '–'} | {r['name']} | "
+            f"| {i if r['momentum'] is not None else '–'} | {r['name']}"
+            f"{' †' if len(r['changes']) == 1 else ''} | "
             f"**{fmt_pct(r['momentum'])}** | {fmt_int(wiki)} | {fmt_pct(r['changes'].get('wiki'))} | "
             f"{fmt_int(hn)} | {fmt_pct(r['changes'].get('hn'))} | {fmt_int(r['stars'])} | {fmt_int(r['stars_gained'])} |"
         )
     lines += [
+        "",
+        "† One signal only (no Wikipedia article), so treat the score with more caution.",
         "",
         "## How the score works",
         "",
