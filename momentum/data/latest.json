@@ -2,21 +2,21 @@
   "date": "2026-11-26",
   "tools": [
     {
-      "name": "NotebookLM",
+      "name": "Perplexity",
       "section": "AI assistants",
       "changes": {
-        "wiki": -44.896310261244274,
-        "hn": 361.2903225806452
+        "wiki": -5.154164749194656,
+        "hn": 256.7567567567568
       },
-      "momentum": 158.19700615970046,
+      "momentum": 125.80129600378106,
       "stars_gained": null,
       "wiki": [
-        1546,
-        3213
+        57208,
+        60344
       ],
       "hn": [
-        118,
-        6
+        239,
+        49
       ],
       "stars": null
     },
@@ -25,36 +25,17 @@
       "section": "Email and audience",
       "changes": {
         "wiki": 119.40808195788276,
-        "hn": 100.0
+        "hn": 121.42857142857144
       },
-      "momentum": 109.70404097894138,
+      "momentum": 120.4183266932271,
       "stars_gained": null,
       "wiki": [
         7210,
         3014
       ],
       "hn": [
-        39,
-        7
-      ],
-      "stars": null
-    },
-    {
-      "name": "Perplexity",
-      "section": "AI assistants",
-      "changes": {
-        "wiki": -5.154164749194656,
-        "hn": 195.74468085106383
-      },
-      "momentum": 95.29525805093459,
-      "stars_gained": null,
-      "wiki": [
-        57208,
-        60344
-      ],
-      "hn": [
-        253,
-        69
+        37,
+        3
       ],
       "stars": null
     },
@@ -62,86 +43,33 @@
       "name": "PostHog",
       "section": "Analytics and measurement",
       "changes": {
-        "hn": 60.7843137254902
+        "hn": 28.57142857142858
       },
-      "momentum": 60.7843137254902,
+      "momentum": 28.57142857142858,
       "stars_gained": null,
       "wiki": null,
       "hn": [
-        57,
-        26
+        38,
+        24
       ],
       "stars": 41163
     },
     {
-      "name": "CapCut",
-      "section": "Video and audio",
-      "changes": {
-        "wiki": 24.435034749390148,
-        "hn": 14.28571428571428
-      },
-      "momentum": 19.360374517552213,
-      "stars_gained": null,
-      "wiki": [
-        26536,
-        21227
-      ],
-      "hn": [
-        7,
-        3
-      ],
-      "stars": null
-    },
-    {
-      "name": "Astro",
-      "section": "Open-source to self-host",
-      "changes": {
-        "hn": 18.75
-      },
-      "momentum": 18.75,
-      "stars_gained": null,
-      "wiki": null,
-      "hn": [
-        13,
-        7
-      ],
-      "stars": 64231
-    },
-    {
-      "name": "ElevenLabs",
-      "section": "Video and audio",
-      "changes": {
-        "wiki": -7.281598949047574,
-        "hn": 35.384615384615394
-      },
-      "momentum": 14.05150821778391,
-      "stars_gained": null,
-      "wiki": [
-        29143,
-        31471
-      ],
-      "hn": [
-        63,
-        40
-      ],
-      "stars": null
-    },
-    {
-      "name": "Gemini",
+      "name": "Claude",
       "section": "AI assistants",
       "changes": {
-        "wiki": -4.140127388535031,
-        "hn": 28.659003831417618
+        "wiki": 11.31250329311344,
+        "hn": 27.723091818621914
       },
-      "momentum": 12.259438221441293,
+      "momentum": 19.517797555867677,
       "stars_gained": null,
       "wiki": [
-        3413,
-        3582
+        189634,
+        170311
       ],
       "hn": [
-        1654,
-        1280
+        7890,
+        6172
       ],
       "stars": null
     },
@@ -150,51 +78,127 @@
       "section": "Content and copy",
       "changes": {
         "wiki": -12.412531806615778,
-        "hn": 32.95454545454546
+        "hn": 50.57471264367817
       },
-      "momentum": 10.271006823964841,
+      "momentum": 19.081090418531197,
       "stars_gained": null,
       "wiki": [
         10515,
         12076
       ],
       "hn": [
-        209,
-        151
+        106,
+        62
       ],
       "stars": null
     },
     {
-      "name": "Descript",
-      "section": "Content and copy",
+      "name": "Astro",
+      "section": "Open-source to self-host",
       "changes": {
-        "hn": 8.915145005370562
+        "hn": 17.24137931034482
       },
-      "momentum": 8.915145005370562,
+      "momentum": 17.24137931034482,
       "stars_gained": null,
       "wiki": null,
       "hn": [
-        989,
-        906
+        9,
+        4
+      ],
+      "stars": 64231
+    },
+    {
+      "name": "Canva",
+      "section": "Images and design",
+      "changes": {
+        "wiki": 1.0186897177110632,
+        "hn": 27.419354838709676
+      },
+      "momentum": 14.21902227821037,
+      "stars_gained": null,
+      "wiki": [
+        85278,
+        84413
+      ],
+      "hn": [
+        54,
+        37
       ],
       "stars": null
     },
     {
-      "name": "Claude",
-      "section": "AI assistants",
+      "name": "Grammarly",
+      "section": "Content and copy",
       "changes": {
-        "wiki": -9.395858291973303,
-        "hn": 26.70188679245282
+        "wiki": -10.034505269047845,
+        "hn": 32.35294117647059
       },
-      "momentum": 8.65301425023976,
+      "momentum": 11.159217953711371,
       "stars_gained": null,
       "wiki": [
-        10088,
-        11186
+        9147,
+        10223
       ],
       "hn": [
-        8369,
-        6600
+        20,
+        9
+      ],
+      "stars": null
+    },
+    {
+      "name": "CapCut",
+      "section": "Video and audio",
+      "changes": {
+        "wiki": 24.435034749390148,
+        "hn": -3.703703703703709
+      },
+      "momentum": 10.36566552284322,
+      "stars_gained": null,
+      "wiki": [
+        26536,
+        21227
+      ],
+      "hn": [
+        1,
+        2
+      ],
+      "stars": null
+    },
+    {
+      "name": "Figma",
+      "section": "Images and design",
+      "changes": {
+        "wiki": -10.496222176842963,
+        "hn": 28.965517241379303
+      },
+      "momentum": 9.23464753226817,
+      "stars_gained": null,
+      "wiki": [
+        17032,
+        19088
+      ],
+      "hn": [
+        162,
+        120
+      ],
+      "stars": null
+    },
+    {
+      "name": "Gemini",
+      "section": "AI assistants",
+      "changes": {
+        "wiki": -14.182419960537207,
+        "hn": 27.973199329983256
+      },
+      "momentum": 6.895389684723025,
+      "stars_gained": null,
+      "wiki": [
+        66914,
+        78055
+      ],
+      "hn": [
+        1503,
+        1169
       ],
       "stars": null
     },
@@ -218,40 +222,21 @@
       "stars": 92278
     },
     {
-      "name": "HeyGen",
-      "section": "Video and audio",
-      "changes": {
-        "wiki": -0.1810938065918144,
-        "hn": 10.63829787234043
-      },
-      "momentum": 5.228602032874308,
-      "stars_gained": null,
-      "wiki": [
-        2256,
-        2261
-      ],
-      "hn": [
-        27,
-        22
-      ],
-      "stars": null
-    },
-    {
       "name": "Zapier",
       "section": "Automation and workflows",
       "changes": {
         "wiki": -11.510453370918484,
-        "hn": 21.42857142857142
+        "hn": 22.580645161290324
       },
-      "momentum": 4.959059028826468,
+      "momentum": 5.53509589518592,
       "stars_gained": null,
       "wiki": [
         3267,
         3757
       ],
       "hn": [
-        26,
-        17
+        13,
+        6
       ],
       "stars": null
     },
@@ -260,17 +245,17 @@
       "section": "Images and design",
       "changes": {
         "wiki": -2.0232296740352207,
-        "hn": 11.111111111111116
+        "hn": 11.538461538461542
       },
-      "momentum": 4.5439407185379475,
+      "momentum": 4.75761593221316,
       "stars_gained": null,
       "wiki": [
         2115,
         2169
       ],
       "hn": [
-        5,
-        2
+        4,
+        1
       ],
       "stars": null
     },
@@ -294,21 +279,93 @@
       "stars": null
     },
     {
+      "name": "HeyGen",
+      "section": "Video and audio",
+      "changes": {
+        "wiki": -0.1810938065918144,
+        "hn": 7.692307692307687
+      },
+      "momentum": 3.7556069428579364,
+      "stars_gained": null,
+      "wiki": [
+        2256,
+        2261
+      ],
+      "hn": [
+        3,
+        1
+      ],
+      "stars": null
+    },
+    {
+      "name": "Ahrefs",
+      "section": "SEO and AI search",
+      "changes": {
+        "hn": 3.703703703703698
+      },
+      "momentum": 3.703703703703698,
+      "stars_gained": null,
+      "wiki": null,
+      "hn": [
+        3,
+        2
+      ],
+      "stars": null
+    },
+    {
       "name": "Vercel",
       "section": "Building your own tools",
       "changes": {
         "wiki": -6.744604316546765,
-        "hn": 13.931888544891645
+        "hn": 11.07491856677525
       },
-      "momentum": 3.5936421141724404,
+      "momentum": 2.1651571251142423,
       "stars_gained": null,
       "wiki": [
         12981,
         13956
       ],
       "hn": [
-        343,
-        298
+        316,
+        282
+      ],
+      "stars": null
+    },
+    {
+      "name": "n8n",
+      "section": "Automation and workflows",
+      "changes": {
+        "wiki": -0.4161712247324645,
+        "hn": 3.125
+      },
+      "momentum": 1.3544143876337678,
+      "stars_gained": null,
+      "wiki": [
+        9550,
+        9592
+      ],
+      "hn": [
+        41,
+        39
+      ],
+      "stars": 212277
+    },
+    {
+      "name": "ElevenLabs",
+      "section": "Video and audio",
+      "changes": {
+        "wiki": -7.281598949047574,
+        "hn": 9.677419354838701
+      },
+      "momentum": 1.1979102028955637,
+      "stars_gained": null,
+      "wiki": [
+        29143,
+        31471
+      ],
+      "hn": [
+        43,
+        37
       ],
       "stars": null
     },
@@ -358,59 +415,36 @@
       "stars": 8662
     },
     {
-      "name": "n8n",
-      "section": "Automation and workflows",
+      "name": "NotebookLM",
+      "section": "AI assistants",
       "changes": {
-        "wiki": -0.4161712247324645,
-        "hn": -0.2449729509033327
+        "wiki": -16.9883189436262,
+        "hn": 16.666666666666675
       },
-      "momentum": -0.3305720878178986,
+      "momentum": -0.1608261384797629,
       "stars_gained": null,
       "wiki": [
-        9550,
-        9592
+        9307,
+        11314
       ],
       "hn": [
-        9748,
-        9772
-      ],
-      "stars": 212277
-    },
-    {
-      "name": "Canva",
-      "section": "Images and design",
-      "changes": {
-        "wiki": 1.0186897177110632,
-        "hn": -3.526970954356845
-      },
-      "momentum": -1.254140618322891,
-      "stars_gained": null,
-      "wiki": [
-        85278,
-        84413
-      ],
-      "hn": [
-        1370,
-        1421
+        10,
+        5
       ],
       "stars": null
     },
     {
-      "name": "Ahrefs",
-      "section": "SEO and AI search",
+      "name": "Descript",
+      "section": "Content and copy",
       "changes": {
-        "wiki": 0.0,
-        "hn": -3.3333333333333326
+        "hn": -3.4482758620689613
       },
-      "momentum": -1.6666666666666663,
+      "momentum": -3.4482758620689613,
       "stars_gained": null,
-      "wiki": [
-        0,
-        0
-      ],
+      "wiki": null,
       "hn": [
-        4,
-        5
+        3,
+        4
       ],
       "stars": null
     },
@@ -438,17 +472,17 @@
       "section": "Video and audio",
       "changes": {
         "wiki": -12.43587112661605,
-        "hn": 3.703703703703698
+        "hn": 0.0
       },
-      "momentum": -4.3660837114561755,
+      "momentum": -6.217935563308025,
       "stars_gained": null,
       "wiki": [
         3767,
         4373
       ],
       "hn": [
-        3,
-        2
+        1,
+        1
       ],
       "stars": null
     },
@@ -457,57 +491,19 @@
       "section": "Open-source to self-host",
       "changes": {
         "wiki": 1.183765501691103,
-        "hn": -10.126582278481012
+        "hn": -13.793103448275868
       },
-      "momentum": -4.471408388394954,
+      "momentum": -6.304668973292383,
       "stars_gained": null,
       "wiki": [
         1295,
         1274
       ],
       "hn": [
-        117,
-        133
+        0,
+        4
       ],
       "stars": 55928
-    },
-    {
-      "name": "Grammarly",
-      "section": "Content and copy",
-      "changes": {
-        "wiki": -10.034505269047845,
-        "hn": -0.38461538461538325
-      },
-      "momentum": -5.209560326831614,
-      "stars_gained": null,
-      "wiki": [
-        9147,
-        10223
-      ],
-      "hn": [
-        234,
-        235
-      ],
-      "stars": null
-    },
-    {
-      "name": "Figma",
-      "section": "Images and design",
-      "changes": {
-        "wiki": -10.496222176842963,
-        "hn": -2.209944751381221
-      },
-      "momentum": -6.353083464112092,
-      "stars_gained": null,
-      "wiki": [
-        17032,
-        19088
-      ],
-      "hn": [
-        329,
-        337
-      ],
-      "stars": null
     },
     {
       "name": "Umami",
@@ -529,19 +525,34 @@
       "section": "AI assistants",
       "changes": {
         "wiki": -20.88805356087765,
-        "hn": -7.595505617977527
+        "hn": -2.4271844660194164
       },
-      "momentum": -14.241779589427589,
+      "momentum": -11.657619013448533,
       "stars_gained": null,
       "wiki": [
         1745488,
         2206484
       ],
       "hn": [
-        2031,
-        2200
+        1382,
+        1417
       ],
       "stars": null
+    },
+    {
+      "name": "Streamlit",
+      "section": "Building your own tools",
+      "changes": {
+        "hn": -12.903225806451612
+      },
+      "momentum": -12.903225806451612,
+      "stars_gained": null,
+      "wiki": null,
+      "hn": [
+        2,
+        6
+      ],
+      "stars": 46515
     },
     {
       "name": "Google Analytics",
@@ -561,21 +572,6 @@
         20
       ],
       "stars": null
-    },
-    {
-      "name": "Streamlit",
-      "section": "Building your own tools",
-      "changes": {
-        "hn": -87.17434869739479
-      },
-      "momentum": -87.17434869739479,
-      "stars_gained": null,
-      "wiki": null,
-      "hn": [
-        103,
-        973
-      ],
-      "stars": 46515
     }
   ]
 }

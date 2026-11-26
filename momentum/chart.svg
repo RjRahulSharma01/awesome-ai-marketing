@@ -3,101 +3,101 @@
 <text x="20" y="26" font-size="16" font-weight="600" fill="#1f2328">AI Tools Momentum Index</text>
 <text x="20" y="44" font-size="12" fill="#59636e">Change in attention, last 28 days vs the 28 before · updated 26 Nov 2026</text>
 <line x1="440.0" y1="50" x2="440.0" y2="830" stroke="#d1d9e0"/>
-<text x="180" y="69" font-size="12" text-anchor="end" fill="#1f2328">NotebookLM</text>
+<text x="180" y="69" font-size="12" text-anchor="end" fill="#1f2328">Perplexity</text>
 <rect x="440.0" y="56" width="250.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="696.0" y="69" font-size="11" text-anchor="start" fill="#59636e">+158%</text>
+<text x="696.0" y="69" font-size="11" text-anchor="start" fill="#59636e">+126%</text>
 <text x="180" y="93" font-size="12" text-anchor="end" fill="#1f2328">Mailchimp</text>
 <rect x="440.0" y="80" width="250.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="696.0" y="93" font-size="11" text-anchor="start" fill="#59636e">+110%</text>
-<text x="180" y="117" font-size="12" text-anchor="end" fill="#1f2328">Perplexity</text>
-<rect x="440.0" y="104" width="238.2" height="18" rx="3" fill="#1a7f37"/>
-<text x="684.2" y="117" font-size="11" text-anchor="start" fill="#59636e">+95%</text>
-<text x="180" y="141" font-size="12" text-anchor="end" fill="#1f2328">PostHog</text>
-<rect x="440.0" y="128" width="152.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="598.0" y="141" font-size="11" text-anchor="start" fill="#59636e">+61%</text>
-<text x="180" y="165" font-size="12" text-anchor="end" fill="#1f2328">CapCut</text>
-<rect x="440.0" y="152" width="48.4" height="18" rx="3" fill="#1a7f37"/>
-<text x="494.4" y="165" font-size="11" text-anchor="start" fill="#59636e">+19%</text>
+<text x="696.0" y="93" font-size="11" text-anchor="start" fill="#59636e">+120%</text>
+<text x="180" y="117" font-size="12" text-anchor="end" fill="#1f2328">PostHog</text>
+<rect x="440.0" y="104" width="71.4" height="18" rx="3" fill="#1a7f37"/>
+<text x="517.4" y="117" font-size="11" text-anchor="start" fill="#59636e">+29%</text>
+<text x="180" y="141" font-size="12" text-anchor="end" fill="#1f2328">Claude</text>
+<rect x="440.0" y="128" width="48.8" height="18" rx="3" fill="#1a7f37"/>
+<text x="494.8" y="141" font-size="11" text-anchor="start" fill="#59636e">+20%</text>
+<text x="180" y="165" font-size="12" text-anchor="end" fill="#1f2328">Notion</text>
+<rect x="440.0" y="152" width="47.7" height="18" rx="3" fill="#1a7f37"/>
+<text x="493.7" y="165" font-size="11" text-anchor="start" fill="#59636e">+19%</text>
 <text x="180" y="189" font-size="12" text-anchor="end" fill="#1f2328">Astro</text>
-<rect x="440.0" y="176" width="46.9" height="18" rx="3" fill="#1a7f37"/>
-<text x="492.9" y="189" font-size="11" text-anchor="start" fill="#59636e">+19%</text>
-<text x="180" y="213" font-size="12" text-anchor="end" fill="#1f2328">ElevenLabs</text>
-<rect x="440.0" y="200" width="35.1" height="18" rx="3" fill="#1a7f37"/>
-<text x="481.1" y="213" font-size="11" text-anchor="start" fill="#59636e">+14%</text>
-<text x="180" y="237" font-size="12" text-anchor="end" fill="#1f2328">Gemini</text>
-<rect x="440.0" y="224" width="30.6" height="18" rx="3" fill="#1a7f37"/>
-<text x="476.6" y="237" font-size="11" text-anchor="start" fill="#59636e">+12%</text>
-<text x="180" y="261" font-size="12" text-anchor="end" fill="#1f2328">Notion</text>
-<rect x="440.0" y="248" width="25.7" height="18" rx="3" fill="#1a7f37"/>
-<text x="471.7" y="261" font-size="11" text-anchor="start" fill="#59636e">+10%</text>
-<text x="180" y="285" font-size="12" text-anchor="end" fill="#1f2328">Descript</text>
-<rect x="440.0" y="272" width="22.3" height="18" rx="3" fill="#1a7f37"/>
-<text x="468.3" y="285" font-size="11" text-anchor="start" fill="#59636e">+9%</text>
-<text x="180" y="309" font-size="12" text-anchor="end" fill="#1f2328">Claude</text>
-<rect x="440.0" y="296" width="21.6" height="18" rx="3" fill="#1a7f37"/>
-<text x="467.6" y="309" font-size="11" text-anchor="start" fill="#59636e">+9%</text>
+<rect x="440.0" y="176" width="43.1" height="18" rx="3" fill="#1a7f37"/>
+<text x="489.1" y="189" font-size="11" text-anchor="start" fill="#59636e">+17%</text>
+<text x="180" y="213" font-size="12" text-anchor="end" fill="#1f2328">Canva</text>
+<rect x="440.0" y="200" width="35.5" height="18" rx="3" fill="#1a7f37"/>
+<text x="481.5" y="213" font-size="11" text-anchor="start" fill="#59636e">+14%</text>
+<text x="180" y="237" font-size="12" text-anchor="end" fill="#1f2328">Grammarly</text>
+<rect x="440.0" y="224" width="27.9" height="18" rx="3" fill="#1a7f37"/>
+<text x="473.9" y="237" font-size="11" text-anchor="start" fill="#59636e">+11%</text>
+<text x="180" y="261" font-size="12" text-anchor="end" fill="#1f2328">CapCut</text>
+<rect x="440.0" y="248" width="25.9" height="18" rx="3" fill="#1a7f37"/>
+<text x="471.9" y="261" font-size="11" text-anchor="start" fill="#59636e">+10%</text>
+<text x="180" y="285" font-size="12" text-anchor="end" fill="#1f2328">Figma</text>
+<rect x="440.0" y="272" width="23.1" height="18" rx="3" fill="#1a7f37"/>
+<text x="469.1" y="285" font-size="11" text-anchor="start" fill="#59636e">+9%</text>
+<text x="180" y="309" font-size="12" text-anchor="end" fill="#1f2328">Gemini</text>
+<rect x="440.0" y="296" width="17.2" height="18" rx="3" fill="#1a7f37"/>
+<text x="463.2" y="309" font-size="11" text-anchor="start" fill="#59636e">+7%</text>
 <text x="180" y="333" font-size="12" text-anchor="end" fill="#1f2328">Model Context Protocol</text>
 <rect x="440.0" y="320" width="15.5" height="18" rx="3" fill="#1a7f37"/>
 <text x="461.5" y="333" font-size="11" text-anchor="start" fill="#59636e">+6%</text>
-<text x="180" y="357" font-size="12" text-anchor="end" fill="#1f2328">HeyGen</text>
-<rect x="440.0" y="344" width="13.1" height="18" rx="3" fill="#1a7f37"/>
-<text x="459.1" y="357" font-size="11" text-anchor="start" fill="#59636e">+5%</text>
-<text x="180" y="381" font-size="12" text-anchor="end" fill="#1f2328">Zapier</text>
-<rect x="440.0" y="368" width="12.4" height="18" rx="3" fill="#1a7f37"/>
-<text x="458.4" y="381" font-size="11" text-anchor="start" fill="#59636e">+5%</text>
-<text x="180" y="405" font-size="12" text-anchor="end" fill="#1f2328">Adobe Firefly</text>
-<rect x="440.0" y="392" width="11.4" height="18" rx="3" fill="#1a7f37"/>
-<text x="457.4" y="405" font-size="11" text-anchor="start" fill="#59636e">+5%</text>
-<text x="180" y="429" font-size="12" text-anchor="end" fill="#1f2328">Semrush</text>
-<rect x="440.0" y="416" width="11.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="457.0" y="429" font-size="11" text-anchor="start" fill="#59636e">+4%</text>
-<text x="180" y="453" font-size="12" text-anchor="end" fill="#1f2328">Vercel</text>
-<rect x="440.0" y="440" width="9.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="455.0" y="453" font-size="11" text-anchor="start" fill="#59636e">+4%</text>
-<text x="180" y="477" font-size="12" text-anchor="end" fill="#1f2328">Listmonk</text>
-<rect x="440.0" y="464" width="1.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="446.0" y="477" font-size="11" text-anchor="start" fill="#59636e">+0%</text>
-<text x="180" y="501" font-size="12" text-anchor="end" fill="#1f2328">Evidence</text>
-<rect x="440.0" y="488" width="1.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="446.0" y="501" font-size="11" text-anchor="start" fill="#59636e">+0%</text>
-<text x="180" y="525" font-size="12" text-anchor="end" fill="#1f2328">GrowthBook</text>
-<rect x="440.0" y="512" width="1.0" height="18" rx="3" fill="#1a7f37"/>
-<text x="446.0" y="525" font-size="11" text-anchor="start" fill="#59636e">+0%</text>
-<text x="180" y="549" font-size="12" text-anchor="end" fill="#1f2328">n8n</text>
-<rect x="439.2" y="536" width="1.0" height="18" rx="3" fill="#cf222e"/>
-<text x="433.2" y="549" font-size="11" text-anchor="end" fill="#59636e">-0%</text>
-<text x="180" y="573" font-size="12" text-anchor="end" fill="#1f2328">Canva</text>
-<rect x="436.9" y="560" width="3.1" height="18" rx="3" fill="#cf222e"/>
-<text x="430.9" y="573" font-size="11" text-anchor="end" fill="#59636e">-1%</text>
-<text x="180" y="597" font-size="12" text-anchor="end" fill="#1f2328">Ahrefs</text>
-<rect x="435.8" y="584" width="4.2" height="18" rx="3" fill="#cf222e"/>
-<text x="429.8" y="597" font-size="11" text-anchor="end" fill="#59636e">-2%</text>
-<text x="180" y="621" font-size="12" text-anchor="end" fill="#1f2328">Midjourney</text>
-<rect x="429.6" y="608" width="10.4" height="18" rx="3" fill="#cf222e"/>
-<text x="423.6" y="621" font-size="11" text-anchor="end" fill="#59636e">-4%</text>
-<text x="180" y="645" font-size="12" text-anchor="end" fill="#1f2328">Runway</text>
-<rect x="429.1" y="632" width="10.9" height="18" rx="3" fill="#cf222e"/>
-<text x="423.1" y="645" font-size="11" text-anchor="end" fill="#59636e">-4%</text>
-<text x="180" y="669" font-size="12" text-anchor="end" fill="#1f2328">Ghost</text>
-<rect x="428.8" y="656" width="11.2" height="18" rx="3" fill="#cf222e"/>
-<text x="422.8" y="669" font-size="11" text-anchor="end" fill="#59636e">-4%</text>
-<text x="180" y="693" font-size="12" text-anchor="end" fill="#1f2328">Grammarly</text>
-<rect x="427.0" y="680" width="13.0" height="18" rx="3" fill="#cf222e"/>
-<text x="421.0" y="693" font-size="11" text-anchor="end" fill="#59636e">-5%</text>
-<text x="180" y="717" font-size="12" text-anchor="end" fill="#1f2328">Figma</text>
-<rect x="424.1" y="704" width="15.9" height="18" rx="3" fill="#cf222e"/>
-<text x="418.1" y="717" font-size="11" text-anchor="end" fill="#59636e">-6%</text>
+<text x="180" y="357" font-size="12" text-anchor="end" fill="#1f2328">Zapier</text>
+<rect x="440.0" y="344" width="13.8" height="18" rx="3" fill="#1a7f37"/>
+<text x="459.8" y="357" font-size="11" text-anchor="start" fill="#59636e">+6%</text>
+<text x="180" y="381" font-size="12" text-anchor="end" fill="#1f2328">Adobe Firefly</text>
+<rect x="440.0" y="368" width="11.9" height="18" rx="3" fill="#1a7f37"/>
+<text x="457.9" y="381" font-size="11" text-anchor="start" fill="#59636e">+5%</text>
+<text x="180" y="405" font-size="12" text-anchor="end" fill="#1f2328">Semrush</text>
+<rect x="440.0" y="392" width="11.0" height="18" rx="3" fill="#1a7f37"/>
+<text x="457.0" y="405" font-size="11" text-anchor="start" fill="#59636e">+4%</text>
+<text x="180" y="429" font-size="12" text-anchor="end" fill="#1f2328">HeyGen</text>
+<rect x="440.0" y="416" width="9.4" height="18" rx="3" fill="#1a7f37"/>
+<text x="455.4" y="429" font-size="11" text-anchor="start" fill="#59636e">+4%</text>
+<text x="180" y="453" font-size="12" text-anchor="end" fill="#1f2328">Ahrefs</text>
+<rect x="440.0" y="440" width="9.3" height="18" rx="3" fill="#1a7f37"/>
+<text x="455.3" y="453" font-size="11" text-anchor="start" fill="#59636e">+4%</text>
+<text x="180" y="477" font-size="12" text-anchor="end" fill="#1f2328">Vercel</text>
+<rect x="440.0" y="464" width="5.4" height="18" rx="3" fill="#1a7f37"/>
+<text x="451.4" y="477" font-size="11" text-anchor="start" fill="#59636e">+2%</text>
+<text x="180" y="501" font-size="12" text-anchor="end" fill="#1f2328">n8n</text>
+<rect x="440.0" y="488" width="3.4" height="18" rx="3" fill="#1a7f37"/>
+<text x="449.4" y="501" font-size="11" text-anchor="start" fill="#59636e">+1%</text>
+<text x="180" y="525" font-size="12" text-anchor="end" fill="#1f2328">ElevenLabs</text>
+<rect x="440.0" y="512" width="3.0" height="18" rx="3" fill="#1a7f37"/>
+<text x="449.0" y="525" font-size="11" text-anchor="start" fill="#59636e">+1%</text>
+<text x="180" y="549" font-size="12" text-anchor="end" fill="#1f2328">Listmonk</text>
+<rect x="440.0" y="536" width="1.0" height="18" rx="3" fill="#1a7f37"/>
+<text x="446.0" y="549" font-size="11" text-anchor="start" fill="#59636e">+0%</text>
+<text x="180" y="573" font-size="12" text-anchor="end" fill="#1f2328">Evidence</text>
+<rect x="440.0" y="560" width="1.0" height="18" rx="3" fill="#1a7f37"/>
+<text x="446.0" y="573" font-size="11" text-anchor="start" fill="#59636e">+0%</text>
+<text x="180" y="597" font-size="12" text-anchor="end" fill="#1f2328">GrowthBook</text>
+<rect x="440.0" y="584" width="1.0" height="18" rx="3" fill="#1a7f37"/>
+<text x="446.0" y="597" font-size="11" text-anchor="start" fill="#59636e">+0%</text>
+<text x="180" y="621" font-size="12" text-anchor="end" fill="#1f2328">NotebookLM</text>
+<rect x="439.6" y="608" width="1.0" height="18" rx="3" fill="#cf222e"/>
+<text x="433.6" y="621" font-size="11" text-anchor="end" fill="#59636e">-0%</text>
+<text x="180" y="645" font-size="12" text-anchor="end" fill="#1f2328">Descript</text>
+<rect x="431.4" y="632" width="8.6" height="18" rx="3" fill="#cf222e"/>
+<text x="425.4" y="645" font-size="11" text-anchor="end" fill="#59636e">-3%</text>
+<text x="180" y="669" font-size="12" text-anchor="end" fill="#1f2328">Midjourney</text>
+<rect x="429.6" y="656" width="10.4" height="18" rx="3" fill="#cf222e"/>
+<text x="423.6" y="669" font-size="11" text-anchor="end" fill="#59636e">-4%</text>
+<text x="180" y="693" font-size="12" text-anchor="end" fill="#1f2328">Runway</text>
+<rect x="424.5" y="680" width="15.5" height="18" rx="3" fill="#cf222e"/>
+<text x="418.5" y="693" font-size="11" text-anchor="end" fill="#59636e">-6%</text>
+<text x="180" y="717" font-size="12" text-anchor="end" fill="#1f2328">Ghost</text>
+<rect x="424.2" y="704" width="15.8" height="18" rx="3" fill="#cf222e"/>
+<text x="418.2" y="717" font-size="11" text-anchor="end" fill="#59636e">-6%</text>
 <text x="180" y="741" font-size="12" text-anchor="end" fill="#1f2328">Umami</text>
 <rect x="422.1" y="728" width="17.9" height="18" rx="3" fill="#cf222e"/>
 <text x="416.1" y="741" font-size="11" text-anchor="end" fill="#59636e">-7%</text>
 <text x="180" y="765" font-size="12" text-anchor="end" fill="#1f2328">ChatGPT</text>
-<rect x="404.4" y="752" width="35.6" height="18" rx="3" fill="#cf222e"/>
-<text x="398.4" y="765" font-size="11" text-anchor="end" fill="#59636e">-14%</text>
-<text x="180" y="789" font-size="12" text-anchor="end" fill="#1f2328">Google Analytics</text>
-<rect x="395.1" y="776" width="44.9" height="18" rx="3" fill="#cf222e"/>
-<text x="389.1" y="789" font-size="11" text-anchor="end" fill="#59636e">-18%</text>
-<text x="180" y="813" font-size="12" text-anchor="end" fill="#1f2328">Streamlit</text>
-<rect x="222.1" y="800" width="217.9" height="18" rx="3" fill="#cf222e"/>
-<text x="216.1" y="813" font-size="11" text-anchor="end" fill="#59636e">-87%</text>
+<rect x="410.9" y="752" width="29.1" height="18" rx="3" fill="#cf222e"/>
+<text x="404.9" y="765" font-size="11" text-anchor="end" fill="#59636e">-12%</text>
+<text x="180" y="789" font-size="12" text-anchor="end" fill="#1f2328">Streamlit</text>
+<rect x="407.7" y="776" width="32.3" height="18" rx="3" fill="#cf222e"/>
+<text x="401.7" y="789" font-size="11" text-anchor="end" fill="#59636e">-13%</text>
+<text x="180" y="813" font-size="12" text-anchor="end" fill="#1f2328">Google Analytics</text>
+<rect x="395.1" y="800" width="44.9" height="18" rx="3" fill="#cf222e"/>
+<text x="389.1" y="813" font-size="11" text-anchor="end" fill="#59636e">-18%</text>
 <text x="440.0" y="846" font-size="11" text-anchor="middle" fill="#59636e">0%  (bars capped at ±100%)</text>
 </svg>
